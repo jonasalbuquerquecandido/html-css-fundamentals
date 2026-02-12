@@ -1,63 +1,65 @@
-# 🌐 HTML & CSS Fundamentals
+# 📚 HTML & CSS – Fundamentos
 
-Repositório dedicado ao estudo e prática dos fundamentos de desenvolvimento web com HTML5 e CSS3.
+Este repositório contém meus estudos e práticas de **HTML5 e CSS3**, organizados em exercícios e desafios realizados durante o aprendizado.
 
-O objetivo é construir uma base sólida em estruturação de páginas, semântica, estilização e layout responsivo.
+O objetivo é consolidar a base do desenvolvimento web, praticando estruturação de páginas e estilização com CSS.
 
 ---
 
-## 📚 Conteúdo abordado
+## 📂 Estrutura do Projeto
 
-### 🧱 HTML5
-- Estrutura básica de um documento HTML
-- Tags semânticas (header, main, section, article, footer)
-- Listas, tabelas e formulários
-- Links e navegação
-- Boas práticas de organização
+📁 exercicios  
+- ex001, ex002, ...  
+Exercícios práticos focados nos fundamentos de HTML e CSS.
+
+📁 desafios  
+- d001, d002, ...  
+Desafios aplicando os conceitos aprendidos de forma mais prática.
+
+💡 Cada exercício aborda um conceito específico, como estrutura HTML, links, imagens, listas, tabelas e fundamentos de CSS.
+
+---
+
+## 🧠 Conteúdos Praticados
+
+### 🔹 HTML5
+- Estrutura básica de uma página
+- Títulos e parágrafos
+- Listas (ordenadas e não ordenadas)
+- Links e âncoras
+- Imagens
+- Tabelas
+- Formulários
+- Semântica (header, nav, main, section, article, footer)
 
 ### 🎨 CSS3
 - Seletores
+- Cores
+- Tipografia
 - Box Model
-- Flexbox
-- Posicionamento
-- Responsividade
-- Media Queries
-
----
-
-## 🗂 Estrutura do repositório
-
-Os exercícios estão organizados por conceito, permitindo evolução progressiva no domínio da construção de interfaces.
-
-Exemplos incluídos:
-
-- Páginas estáticas estruturadas
-- Layouts utilizando Flexbox
-- Exercícios de estilização e tipografia
-- Pequenas landing pages
+- Margin e Padding
+- Bordas
+- Classes e IDs
+- Pseudo-classes
+- Layout básico
+- Responsividade inicial
 
 ---
 
 ## 🎯 Objetivo
 
-Consolidar fundamentos antes de avançar para:
-
+Construir uma base sólida em HTML e CSS antes de avançar para:
 - JavaScript
-- Frameworks modernos
-- Projetos completos com integração front-end
+- Frameworks
+- Desenvolvimento Front-End mais avançado
 
 ---
 
-## 🚀 Próximos passos
+## 🚀 Evolução
 
-- Melhorar responsividade avançada
-- Aplicar metodologias como Mobile First
-- Implementar pequenas interações com JavaScript
-- Evoluir para projetos autorais
+Este repositório faz parte da minha jornada como desenvolvedor.  
+Conforme avanço, novos desafios e melhorias serão adicionados.
 
 ---
 
-## 👨‍💻 Desenvolvido por
-
-Jonas Albuquerque  
-Em constante evolução na área de desenvolvimento web.
+👨‍💻 Autor: Jonas Albuquerque Cândido
