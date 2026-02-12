@@ -12,7 +12,7 @@ O objetivo é consolidar a base do desenvolvimento web, praticando estruturaçã
 - ex002
 - ex003
 - ...
-- 
+
 Exercícios práticos focados nos fundamentos de HTML e CSS.
 
 📁 desafios  
@@ -20,6 +20,7 @@ Exercícios práticos focados nos fundamentos de HTML e CSS.
 - ex002
 - ex003
 - ...
+
 Desafios aplicando os conceitos aprendidos de forma mais prática.
 
 💡 Cada exercício aborda um conceito específico, como estrutura HTML, links, imagens, listas, tabelas e fundamentos de CSS.
