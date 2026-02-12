@@ -1,7 +1,6 @@
 # 📚 HTML & CSS – Fundamentos
 
 Este repositório contém meus estudos e práticas de **HTML5 e CSS3**, organizados em exercícios e desafios realizados durante o aprendizado.
-
 O objetivo é consolidar a base do desenvolvimento web, praticando estruturação de páginas e estilização com CSS.
 
 ---
@@ -9,11 +8,18 @@ O objetivo é consolidar a base do desenvolvimento web, praticando estruturaçã
 ## 📂 Estrutura do Projeto
 
 📁 exercicios  
-- ex001, ex002, ...  
+- ex001
+- ex002
+- ex003
+- ...
+- 
 Exercícios práticos focados nos fundamentos de HTML e CSS.
 
 📁 desafios  
-- d001, d002, ...  
+- ex001
+- ex002
+- ex003
+- ...
 Desafios aplicando os conceitos aprendidos de forma mais prática.
 
 💡 Cada exercício aborda um conceito específico, como estrutura HTML, links, imagens, listas, tabelas e fundamentos de CSS.
@@ -62,4 +68,4 @@ Conforme avanço, novos desafios e melhorias serão adicionados.
 
 ---
 
-👨‍💻 Autor: Jonas Albuquerque Cândido
+## 👨‍💻 Autor: Jonas Albuquerque Cândido
